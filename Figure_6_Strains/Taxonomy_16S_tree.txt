@@ -1,0 +1,12 @@
+Label_name	Name	Sample	Phylum	Genus
+Paeniglutamicibacter	MZ_2_1	MZ_2	Actinobacteria	Paeniglutamicibacter
+Acidovorax	MZ_2_2	MZ_2	Proteobacteria	Acidovorax
+Pseudarthrobacter	MZ_3_1	MZ_3	Actinobacteria	Pseudarthrobacter
+unclassified_Actinomycetia_1	MZ_3_2	MZ_3	Actinobacteria	unclassified Actinomycetia
+Bacillus_1	MC_1_1	MC_1	Firmicutes	Bacillus
+Ciceribacter	MC_1_2	MC_1	Proteobacteria	Ciceribacter
+Microbacterium	MC_2_1	MC_2	Actinobacteria	Microbacterium
+Arthrobacter_1	TR_1_1	TR_1	Actinobacteria	Arthrobacter
+Bacillus_2	TR_1_2	TR_1	Firmicutes	Bacillus
+Arthrobacter_2	TR_2_1	TR_2	Actinobacteria	Arthrobacter
+unclassified_Actinomycetia_2	TR_2_2	TR_2	Actinobacteria	unclassified Actinomycetia
