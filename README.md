@@ -2,9 +2,8 @@
  
  
 - 10th Apr 2023 - The manuscript has been accepted by ***Microbial Ecology***
- 
- 
- 
+
+---
  
  
 #The imput file "OTU.EC.abundance_16S" for the Figure_5C_Enzyme can be found at the following link 
