@@ -1,7 +1,7 @@
 # Microbiome_ancient_wooden_seawall_2023
  
  
-######  The manuscript is currently under review  ######
+- 10th Apr 2023 - The manuscript has been accepted by Microbial Ecology
  
  
  
