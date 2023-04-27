@@ -8,7 +8,8 @@ Wang, B., Qi, M., Ma, Y. et al. Microbiome Diversity and Cellulose Decomposition
 
 ---
 
-- 10th Apr 2023 - The manuscript has been accepted by ***Microbial Ecology***
+- Accepted 19 April 2023
+- Available online 25 April 2023
 
 ---
  
