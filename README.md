@@ -14,6 +14,5 @@ Wang, B., Qi, M., Ma, Y. et al. Microbiome Diversity and Cellulose Decomposition
 ---
  
  
-#The imput file "OTU.EC.abundance_16S" for the Figure_5C_Enzyme can be found at the following link 
-
-#link: https://pan.baidu.com/s/1kuUpe8Yjrp2pgMM4_1cW5A?pwd=bawe password: bawe
+The imput file "OTU.EC.abundance_16S" for the Figure_5C_Enzyme can be found via
+link: https://pan.baidu.com/s/1kuUpe8Yjrp2pgMM4_1cW5A?pwd=bawe password: bawe
