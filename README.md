@@ -1,6 +1,10 @@
-# Microbiome_ancient_wooden_seawall_2023
+## This repository is the code for the artical entitled ***"Microbiome Diversity and Cellulose Decomposition Processes by Microorganisms on the Ancient Wooden Seawall of Qiantang River of Hangzhou, China"*** in ***"Microbial Ecology"***
+
+### If you used any codes in your research from this repository, pleased cite this article:
+Wang, B., Qi, M., Ma, Y. et al. Microbiome Diversity and Cellulose Decomposition Processes by Microorganisms on the Ancient Wooden Seawall of Qiantang River of Hangzhou, China. Microb Ecol (2023). https://doi.org/10.1007/s00248-023-02221-x
  
- 
+---
+
 - 10th Apr 2023 - The manuscript has been accepted by ***Microbial Ecology***
 
 ---
