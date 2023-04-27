@@ -4,7 +4,7 @@
 Wang, B., Qi, M., Ma, Y. et al. Microbiome Diversity and Cellulose Decomposition Processes by Microorganisms on the Ancient Wooden Seawall of Qiantang River of Hangzhou, China. Microb Ecol (2023). https://doi.org/10.1007/s00248-023-02221-x
  
  
-#### Any inquiries or concerns regarding this article or the code provided, please do not hesitate to contact me via wangbowen6@126.com
+#### Any inquiries regarding this article or the code provided, please do not hesitate to contact me via wangbowen6@126.com
 
 ---
 
