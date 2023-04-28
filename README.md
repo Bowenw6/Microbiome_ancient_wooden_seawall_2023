@@ -4,6 +4,7 @@
 Bowen Wang, Miaoyi Qi, Yonghua Ma, Bingjian Zhang and Yulan Hu. Microbiome Diversity and Cellulose Decomposition Processes by Microorganisms on the Ancient Wooden Seawall of Qiantang River of Hangzhou, China. Microb Ecol (2023). https://doi.org/10.1007/s00248-023-02221-x
  
 ![image](https://github.com/Bowenw6/Microbiome_ancient_wooden_seawall_2023/blob/main/img/img1.jpg)
+![image](https://github.com/Bowenw6/Microbiome_ancient_wooden_seawall_2023/blob/main/img/img2.jpg)
 
 
  
